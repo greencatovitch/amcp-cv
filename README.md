@@ -1,2 +1,2 @@
-# ascii-cv
+# amcp-cv
 [Резюме](https://greencatovitch.github.io/amcp-cv/cv)
