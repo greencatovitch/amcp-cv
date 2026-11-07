@@ -17,3 +17,9 @@
 ## Языки
 1. **Русский** — Родной
 2. **Английский** — B2
+
+---
+## Контакты для связи
+
+* **Email:** [dmitrykiz112@gmail.com](mailto:dmitrykiz112@gmail.com)
+* **GitHub:** [greencatovitch](https://github.com/greencatovitch)
